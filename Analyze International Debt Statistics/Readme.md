@@ -1,7 +1,10 @@
 ## What's in this project?
-  We will take a list of passwords into account as our dataset and, using publication 800-63B,
-  we will write a code that automatically mark the bad/weak passwords into the dataset by performing a few check based on Digital Identity Guidelines: Authentication and Lifecycle Management
+We are going to do analysis on the international debt dataset provide by the World Bank. The dataset consist of information regarding the   amount of debt (USD) owed by the countries across the globle in several categories. We will try to find the answers to questions like:
+  
+    What is the total amount of debt that is owed by the countries listed in the dataset?
+    Which country owns the maximum amount of debt and what does that amount look like?
+    What is the average amount of debt owed by countries across different debt indicators?
+
     
 ### Pre-requisites:
-    Cleaning Data in Python
-    Natural Language Processing Fundamentals in Python
+  Data Analysis in SQL
